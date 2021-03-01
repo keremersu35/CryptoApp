@@ -4,6 +4,6 @@ This app can display data from API. It gets the name and price of the token or c
 
 [home](ss2/CryptoHome.png)
 
-[search1](ss2/2.png)
+[search1](ss2/CryptoS1.png)
 
-[search2](ss2/3.png)
+[search2](ss2/CryptoS2.png)
