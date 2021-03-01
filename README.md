@@ -2,8 +2,8 @@
 
 This app can display data from API. It gets the name and price of the token or coin from API and displays it. And I added a search algorithm to find by their names.
 
-[home](https://github.com/keremersu35/CryptoApp/blob/master/ss2/CryptoHome.jpg)
+[home](ss2/CryptoHome.png)
 
-[search1](ss2/CryptoS1.jpg)
+[search1](ss2/CryptoS1.png)
 
-[search2](ss2/CryptoS2.jpg)
+[search2](ss2/CryptoS2.png)
